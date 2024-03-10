@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## NOTE
+
+1. 'npm i' to install packages.
+2. 'ng serve' to run project on http://localhost:4200.
+3. 'ng build' to build project target 'static' folder.
+4. Copy everything to 'tech-assessment-sequel' from 'static' folder, paste in 'views' folder, to serve this project on http://localhost:8080.
